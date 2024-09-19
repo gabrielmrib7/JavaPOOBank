@@ -1,7 +1,7 @@
 # JavaPOOBank
 Aplicação de um sistema de contas bancárias, feito em Java utilizando Programação Orientada a Objetos.
 
-Muito semelhante com o JavaSQL Bank, porem utilizando uma lógica orientada a objetos!
+Quase idêntico ao meu projeto JavaSQL Bank, porém utilizando uma lógica orientada a objetos!
 
 ## Cadastro
 Conta com um sistema de cadastro, que gera automaticamente o numero da conta do usuario<br>
